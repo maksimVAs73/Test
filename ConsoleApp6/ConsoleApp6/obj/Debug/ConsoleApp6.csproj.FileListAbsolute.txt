@@ -1,0 +1,10 @@
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ClassLibrary1.dll
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ClassLibrary1.pdb
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleA.F7A32CA5.Up2Date
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
